@@ -20,7 +20,7 @@ This repo contains my work for this specialization.
     - Assignment: 
       - Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
     - Labs: 
-      - Explore MRI data]
+      - Explore MRI data
       - Get a sub section
       - Implement U-Net
 

@@ -1,6 +1,6 @@
 # Coursera AI for Medicine Specialization (offered by deeplearning.ai)
 
-Programming assignments [AI for Medicine Specialization 
+Programming assignments [AI for Medicine Specialization]
 - Diagnose diseases from X-Rays and 3D MRI brain images
 
 This repo contains my work for this specialization. 
